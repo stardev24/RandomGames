@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RandomNumber.iml" filepath="$PROJECT_DIR$/.idea/modules/RandomNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RandomNumber.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RandomNumber.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-979106249/RandomNumber.lottie-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-979106249/RandomNumber.lottie-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/224336744/RandomNumber.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/224336744/RandomNumber.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-830787985/RandomNumber.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-830787985/RandomNumber.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1128032024/RandomNumber.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1128032024/RandomNumber.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1096893744/RandomNumber.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1096893744/RandomNumber.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/167744909/RandomNumber.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/167744909/RandomNumber.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1005840441/RandomNumber.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1005840441/RandomNumber.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
