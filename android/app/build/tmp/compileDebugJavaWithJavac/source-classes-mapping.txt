@@ -1,0 +1,14 @@
+com.tsgames/randomgames/MainApplication.java
+ com.tsgames.randomgames.MainApplication
+ com.tsgames.randomgames.MainApplication$1
+com.tsgames/randomgames/MainActivity.java
+ com.tsgames.randomgames.MainActivity
+com/tsgames/randomgames/BuildConfig.java
+ com.tsgames.randomgames.BuildConfig
+com/randomgames/ReactNativeFlipper.java
+ com.randomgames.ReactNativeFlipper
+ com.randomgames.ReactNativeFlipper$1
+ com.randomgames.ReactNativeFlipper$2
+ com.randomgames.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
